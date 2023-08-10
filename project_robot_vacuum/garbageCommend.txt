@@ -1,0 +1,5 @@
+Garbage cleared at point <Cell 'Sayfa1'.D9>
+Garbage cleared at point <Cell 'Sayfa1'.D14>
+Garbage cleared at point <Cell 'Sayfa1'.E4>
+Garbage cleared at point <Cell 'Sayfa1'.B12>
+Garbage cleared at point <Cell 'Sayfa1'.F15>
